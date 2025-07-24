@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-And-Tailwind-CSS/static/css/main.2309185f.css",
-    "main.js": "/React-And-Tailwind-CSS/static/js/main.0573778d.js",
-    "static/js/453.96453769.chunk.js": "/React-And-Tailwind-CSS/static/js/453.96453769.chunk.js",
-    "index.html": "/React-And-Tailwind-CSS/index.html",
-    "main.2309185f.css.map": "/React-And-Tailwind-CSS/static/css/main.2309185f.css.map",
-    "main.0573778d.js.map": "/React-And-Tailwind-CSS/static/js/main.0573778d.js.map",
-    "453.96453769.chunk.js.map": "/React-And-Tailwind-CSS/static/js/453.96453769.chunk.js.map"
+    "main.css": "/frontend/static/css/main.2309185f.css",
+    "main.js": "/frontend/static/js/main.017d8b6d.js",
+    "static/js/453.96453769.chunk.js": "/frontend/static/js/453.96453769.chunk.js",
+    "index.html": "/frontend/index.html",
+    "main.2309185f.css.map": "/frontend/static/css/main.2309185f.css.map",
+    "main.017d8b6d.js.map": "/frontend/static/js/main.017d8b6d.js.map",
+    "453.96453769.chunk.js.map": "/frontend/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2309185f.css",
-    "static/js/main.0573778d.js"
+    "static/js/main.017d8b6d.js"
   ]
 }
